@@ -6,7 +6,7 @@ To run:
 
 1. `git clone`
 2. `docker-compose up -d`
-3. `yarn start`
+3. `yarn install && yarn build && yarn start`
 
 To test the subscriptions in gateway:
 
